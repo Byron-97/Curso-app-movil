@@ -5,7 +5,7 @@ package curso.apps.moviles;
 
 public class App {
     public String getGreeting() {
-        return "Gracias Matias!";
+        return "Hola mundo!";
     }
 
     public static void main(String[] args) {
